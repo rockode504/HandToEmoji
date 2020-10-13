@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+  background: linear-gradient(to right top, #f19833, #d9259d, #18c1b3, #0aaa3f, #940039);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+span
+{
+  font-size: 30px;
+}
+#result , #camera
+{
+  border: 2px solid blanchedalmond;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotion2 #resultEmotion  
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+    font-size: x-large;
+    letter-spacing: 0.1ch;
+    border-radius: 50px;
+}
